@@ -1,4 +1,4 @@
-Os prompts foram criados usando o Copilot da Microsoft
+Os prompts foram criados usando o ***Copilot da Microsoft***
 
 1. Com base nos três arquivos csv carregados, crie uma tabela de resumo de vendas por países desse produto.
 
