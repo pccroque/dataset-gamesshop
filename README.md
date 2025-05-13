@@ -1,4 +1,3 @@
-# dataset-gamesshop
 # Características
 * A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
 * Os produtos são vendidos globalmente
